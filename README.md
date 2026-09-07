@@ -75,7 +75,7 @@ A structured, daily learning journal and code repository tracking my deep learni
 | :--- | :---: |
 | Optimizers Overview – Part 1 | ✅ |
 | Exponentially Weighted Moving Average (EWMA) | ✅ |
-| SGD with Momentum | ⏳ |
+| SGD with Momentum | ✅ |
 | Nesterov Accelerated Gradient (NAG) | ✅ |
 | AdaGrad | ✅ |
 | RMSProp | ✅ |
