@@ -95,10 +95,10 @@ A structured, daily learning journal and code repository tracking my deep learni
 | Padding & Strides | ✅ |
 | Pooling Layers | ✅ |
 | *Diagram: Max pooling vs Average pooling* | <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/91402af8-480c-4d82-b47d-e0ee1f1526db" /> |
-| LeNet-5 Architecture | ⏳ |
-| Comparing CNN vs ANN | ⏳ |
-| CNN Backpropagation Part 1 | ⏳ |
-| CNN Backpropagation Part 2 | ⏳ |
+| LeNet-5 Architecture | ✅ |
+| Comparing CNN vs ANN | ✅ |
+| CNN Backpropagation Part 1 | ✅ |
+| CNN Backpropagation Part 2 | ✅ |
 | Project: Cat vs Dog Image Classification | ⏳ |
 | Data Augmentation | ⏳ |
 | Pretrained Models in CNN | ⏳ |
