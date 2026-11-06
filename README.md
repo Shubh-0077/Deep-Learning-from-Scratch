@@ -99,7 +99,7 @@ A structured, daily learning journal and code repository tracking my deep learni
 | Comparing CNN vs ANN | ✅ |
 | CNN Backpropagation Part 1 | ✅ |
 | CNN Backpropagation Part 2 | ✅ |
-| Project: Cat vs Dog Image Classification | ⏳ |
+| Project: Cat vs Dog Image Classification | ✅ |
 | Data Augmentation | ⏳ |
 | Pretrained Models in CNN | ⏳ |
 | CNN Interpretability & Feature Maps | ⏳ |
