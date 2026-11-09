@@ -100,9 +100,9 @@ A structured, daily learning journal and code repository tracking my deep learni
 | CNN Backpropagation Part 1 | ✅ |
 | CNN Backpropagation Part 2 | ✅ |
 | Project: Cat vs Dog Image Classification | ✅ |
-| Data Augmentation | ⏳ |
-| Pretrained Models in CNN | ⏳ |
-| CNN Interpretability & Feature Maps | ⏳ |
+| Data Augmentation | ✅ |
+| Pretrained Models in CNN | ✅ |
+| CNN Interpretability & Feature Maps | ✅ |
 | *Diagram: Feature map visualizations* | <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/df597909-98ed-483e-b0b0-57df96ea68c4" /> |
 
 # Transfer Learning & Functional API
