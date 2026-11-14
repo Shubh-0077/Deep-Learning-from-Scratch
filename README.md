@@ -109,8 +109,8 @@ A structured, daily learning journal and code repository tracking my deep learni
 
 | Topic / Concept | Status |
 | :--- | :---: |
-| Transfer Learning Concepts | ⏳ |
-| Keras Functional API | ⏳ |
+| Transfer Learning Concepts | ✅ |
+| Keras Functional API | ✅ |
 
 # Recurrent Neural Networks (RNN)
 
