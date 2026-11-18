@@ -116,13 +116,13 @@ A structured, daily learning journal and code repository tracking my deep learni
 
 | Topic / Concept | Status |
 | :--- | :---: |
-| Why RNNs are Needed | ⏳ |
-| Recurrent Neural Network Architecture | ⏳ |
+| Why RNNs are Needed | ✅ |
+| Recurrent Neural Network Architecture | ✅ |
 | *Diagram: RNN unrolled through time* | <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/8d57fb13-d576-4bf2-8813-5d3c985d160d" /> |
-| Project: Sentiment Analysis | ⏳ |
-| Types of RNN | ⏳ |
-| Backpropagation Through Time (BPTT) | ⏳ |
-| Limitations of Simple RNNs | ⏳ |
+| Project: Sentiment Analysis | ✅ |
+| Types of RNN | ✅ |
+| Backpropagation Through Time (BPTT) | ✅ |
+| Limitations of Simple RNNs | ✅ |
 
 # LSTM & GRU
 
