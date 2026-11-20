@@ -128,14 +128,14 @@ A structured, daily learning journal and code repository tracking my deep learni
 
 | Topic / Concept | Status |
 | :--- | :---: |
-| LSTM Fundamentals | ⏳ |
+| LSTM Fundamentals | ✅ |
 | *Diagram: LSTM cell structure* | <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/fe8a63d7-a2ca-43df-a89c-5cb2b0480fb4" /> |
-| LSTM Gates & Operations | ⏳ |
-| Project: Next Word Predictor | ⏳ |
-| Gated Recurrent Unit (GRU) | ⏳ |
+| LSTM Gates & Operations | ✅ |
+| Project: Next Word Predictor | ✅ |
+| Gated Recurrent Unit (GRU) | ✅ |
 | *Diagram: GRU cell structure* | <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/cca04330-3e3e-4f79-aaf6-0345d2840e97" /> |
-| Deep & Stacked Architectures | ⏳ |
-| Bidirectional Models | ⏳ |
+| Deep & Stacked Architectures | ✅ |
+| Bidirectional Models | ✅ |
 
 # Sequence Models & Attention
 
