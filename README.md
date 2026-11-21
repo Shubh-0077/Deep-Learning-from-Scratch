@@ -141,33 +141,33 @@ A structured, daily learning journal and code repository tracking my deep learni
 
 | Topic / Concept | Status |
 | :--- | :---: |
-| Evolution of Large Language Models | ⏳ |
-| Encoder–Decoder (Seq2Seq Architecture) | ⏳ |
+| Evolution of Large Language Models | ✅ |
+| Encoder–Decoder (Seq2Seq Architecture) | ✅ |
 | *Diagram: Encoder-Decoder architecture* | <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/a382f9c7-871d-4a4a-9717-2c8bf921c742" /> |
-| Attention Mechanism | ⏳ |
+| Attention Mechanism | ✅ |
 | *Diagram: Attention weights over input sequence* | <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/a1a9f599-0529-48b9-a1da-edf7bd3b6eeb" /> |
-| Bahdanau vs Luong Attention | ⏳ |
+| Bahdanau vs Luong Attention | ✅ |
 
 # Transformers
 
 | Topic / Concept | Status |
 | :--- | :---: |
-| Introduction to Transformers | ⏳ |
+| Introduction to Transformers | ✅ |
 | *Diagram: Full Transformer architecture* | <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/190d1897-b641-46ce-84f8-dc76f94a0cb8" /> |
-| Self-Attention Mechanics | ⏳ |
-| Self-Attention Code Implementation | ⏳ |
-| Scaled Dot-Product Attention | ⏳ |
-| Geometric Intuition of Self-Attention | ⏳ |
-| Multi-Head Attention | ⏳ |
+| Self-Attention Mechanics | ✅ |
+| Self-Attention Code Implementation | ✅ |
+| Scaled Dot-Product Attention | ✅ |
+| Geometric Intuition of Self-Attention | ✅ |
+| Multi-Head Attention | ✅ |
 | *Diagram: Multi-head attention split-concat flow* | <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/c5e68fcf-c0c4-4840-9ba9-989042b5cc91" /> |
-| Positional Encoding | ⏳ |
+| Positional Encoding | ✅ |
 | *Diagram: Positional encoding curve matrix* | <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/47c2b429-2f6b-47f0-b9f6-e22328ca5a45" /> |
-| Layer Normalization | ⏳ |
-| Transformer Encoder Architecture | ⏳ |
-| Masked Self-Attention | ⏳ |
-| Cross-Attention Mechanics | ⏳ |
-| Transformer Decoder Architecture | ⏳ |
-| Transformer Inference Strategies | ⏳ |
+| Layer Normalization | ✅ |
+| Transformer Encoder Architecture | ✅ |
+| Masked Self-Attention | ✅ |
+| Cross-Attention Mechanics | ✅ |
+| Transformer Decoder Architecture | ✅ |
+| Transformer Inference Strategies | ✅ |
 
 ---
 
